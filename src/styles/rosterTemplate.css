@@ -3,7 +3,7 @@
 body {
     margin: 0;
     box-sizing: border-box;
-    background: #d6cdcd;
+    background: #edc7f1;
 
   }
   
@@ -38,6 +38,8 @@ blockquote {
     width: clamp(30ch, calc(1 / 4 * 100%), 100%);
     min-width: 30ch;
     border: 0.5rem solid black;
+    background-color: white;
+    text-align: center;
   }
   
   .card figcaption {
